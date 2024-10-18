@@ -27,12 +27,12 @@ export default function Home() {
             </ul>
           <li>Assignments :</li>
           <ul className="list-disc p-4">
-              <li>Create a "Hello World" Next.js application.</li>
+              <li>Create a &rdquo;Hello World&rdquo; Next.js application.</li>
               <li>Explore and document the folder structure of a Next.js project.</li>
           </ul>
           <li>Project :</li>
           <ul className="list-disc p-4">
-              <li>Devlop a simple webpage that displays a perrsonalized "Hello World" message with basic styling.</li>
+              <li>Devlop a simple webpage that displays a perrsonalized &rdquo;Hello World&rdquo; message with basic styling.</li>
               
           </ul>
         </ul>
